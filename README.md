@@ -18,6 +18,9 @@ The **Compose Compiler Reports Comparator** is a web-based tool designed to comp
    - **Classes Comparison**: Shows class names, stability, and fields for both reports.
 4. **Analyze**: Compare the differences between the two reports to identify changes in composable or class behavior, aiding in performance optimization.
 
+<img width="1777" height="726" alt="image" src="https://github.com/user-attachments/assets/b70aabb7-6d67-4a51-845a-01a0700a6dc2" />
+
+
 ## Project Structure
 - `compose-compiler-reports.html`: The main HTML file containing the structure and placeholder content for the comparator tool.
 - (Future additions): JavaScript for parsing reports, CSS for enhanced styling, and support for additional report formats.
