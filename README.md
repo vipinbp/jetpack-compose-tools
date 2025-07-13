@@ -34,7 +34,7 @@ Contributions are welcome! To contribute:
 5. Open a pull request with a detailed description of your changes.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ## Future Enhancements
 - Add JavaScript to parse and process uploaded JSON/text reports dynamically.
